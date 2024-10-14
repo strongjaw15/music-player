@@ -25,6 +25,7 @@ The music file included in this project is for demonstration purposes only. I do
 ## Usage
 
 Simply visit the link to the site (hosted on GitHub Pages) and click the play button to listen to the song.
+ https://strongjaw15.github.io/music-player/
 
 ## License
 
