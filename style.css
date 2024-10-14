@@ -28,3 +28,7 @@ audio {
     width: 100%;
     max-width: 300px;
 }
+
+.player-container p {
+    margin-top: 15px;
+}
